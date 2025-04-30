@@ -1,0 +1,30 @@
+# Virtual Environment
+.venv/
+.venv
+.cache
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.yml
+Dockerfile
+# Environment variables
+.env
+.env.local
+weather_scraper/
+.weather_scraper
+.weather_scraper/
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
