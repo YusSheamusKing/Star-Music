@@ -1,4 +1,4 @@
-# RexTunes
+# Star-Music
 
 A simple Discord music bot that plays songs from YouTube and Spotify playlists in your voice channels.
 
